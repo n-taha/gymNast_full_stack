@@ -47,7 +47,6 @@ GymNast is a modern gym management platform that helps gym owners, trainers, and
 ### Frontend Setup
 
 ```bash
-cd frontend
 npm install
 npm run dev
 ```
